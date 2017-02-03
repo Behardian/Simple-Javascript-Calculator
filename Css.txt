@@ -1,0 +1,99 @@
+<!-- SexyPanda CSS -->
+body, div, a {
+    
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+	background-color: #e9ece5;
+}
+
+
+#calculator {
+	background-color: #b3c2bf;
+	width: 310px;
+	height: 460px;
+	border: 3px black solid;
+	margin: 50px auto;
+	padding: 50px;
+	border-radius: 10px;
+	font-family: helvetica;
+}
+
+#total {
+    height: 70px;
+    width: 300px;
+    margin:auto;
+    background-color:white;
+    margin-bottom: 5px;
+    text-align: right;
+    font-size: 60px;
+    padding: 0 5px;
+}
+
+#numbers, #operators {
+	margin: auto;	
+}
+
+#operators a {
+	display: block;
+	width: 45px;
+	height: 45px;
+	float: left;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	font-size: 39px;
+	padding: 2px;
+	margin: 5px 6px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EDEDED), to(#DCDCDC));
+	background: -moz-linear-gradient(top, #EDEDED, #DCDCDC);
+	border-radius: 10px;
+}
+
+#numbers a {
+	display: block;
+	width: 50px;
+	height: 50px;
+	float: left;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	font-size: 32pt;
+	padding: 10px;
+	margin: 5px 15px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EDEDED), to(#DCDCDC));
+	background: -moz-linear-gradient(top, #EDEDED, #DCDCDC);
+	border-radius: 10px;
+}
+
+	#header {
+	height: 100px;
+	background-color: #c0dfd9;
+	font-family: verdana;
+	padding-top: 10px;
+	padding-left: 20px;
+	font-size: 40px;
+}
+
+	#footer {
+	height:150px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	background-color: #3b3a36;
+	text-decoration: none!important;
+	padding-top: 20px;
+	padding-left:20px;
+	color: black;
+}
+
+a:link, a:visited {
+	text-decoration: none!important;
+}
+
+<!--
+#c0dfd9
+#e9ece5
+#b3c2bf
+#3b3a36-->

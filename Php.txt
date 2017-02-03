@@ -1,0 +1,11 @@
+<html>
+ <head>
+  <title>Will's PHP Javascript Calculator</title>
+ </head>
+ <body>
+	 <?php 
+		echo '<h1>Calculator</h1>';
+		echo '<p></p>	
+	 ?> 
+ </body>
+</html>
